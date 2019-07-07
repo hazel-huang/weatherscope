@@ -1,4 +1,4 @@
-# weatherscope
+# Weatherscope
 Weatherscope is a series of animated weather simulations produced using HTML, CSS, and JavaScript. The user can switch between three different weather states (sunny, cloudy, & rainy) by clicking on the "weatherscope" title.
 
 ![](weatherscope.gif)
